@@ -693,21 +693,21 @@
       </ThemeProperties>
     </properties>
     <text_editor>
-      <ThemeTextEditor line_numbers_background="#64707c"
-                       selected_text="#64707c"
-                       cursor="#f49c1c"
-                       syntax_builtin="#5d1463"
-                       syntax_symbols="#000000"
-                       syntax_special="#ffd402"
-                       syntax_preprocessor="#1f0d40"
-                       syntax_reserved="#401b00"
-                       syntax_comment="#3e454d"
-                       syntax_string="#004005"
-                       syntax_numbers="#731717">
+      <ThemeTextEditor line_numbers_background="#313131"
+                       selected_text="#5d5d5d"
+                       cursor="#4f84eb"
+                       syntax_builtin="#f49c1c"
+                       syntax_symbols="#ccc8c0"
+                       syntax_special="#4fc3eb"
+                       syntax_preprocessor="#4f84eb"
+                       syntax_reserved="#afc947"
+                       syntax_comment="#5c5e63"
+                       syntax_string="#c9be47"
+                       syntax_numbers="#9780dc">
         <space>
-          <ThemeSpaceGeneric back="#9098a0"
+          <ThemeSpaceGeneric back="#313131"
                              title="#000000"
-                             text="#000000"
+                             text="#ccc8c0"
                              text_hi="#f4b01c"
                              header="#383838"
                              header_text="#d9d9d9"
@@ -767,35 +767,35 @@
       <ThemeNodeEditor gp_vertex="#000000"
                        gp_vertex_select="#ff8500"
                        gp_vertex_size="3"
-                       node_selected="#ffffff"
+                       node_selected="#b5b8e2"
                        node_active="#ffa829"
-                       wire="#000000"
-                       wire_inner="#737373"
-                       wire_select="#ffffff"
-                       selected_text="#7f7070"
-                       node_backdrop="#808080cc"
-                       converter_node="#898d9c"
-                       color_node="#cbcc66"
-                       group_node="#658574"
-                       group_socket_node="#f49c1c"
-                       frame_node="#606060a0"
-                       matte_node="#bb6363"
-                       distor_node="#749797"
+                       wire="#b5b8e2"
+                       wire_inner="#b5b8e2"
+                       wire_select="#ffa829"
+                       selected_text="#d9d9d9"
+                       node_backdrop="#3d4552cc"
+                       converter_node="#353b47"
+                       color_node="#353b47"
+                       group_node="#676d73"
+                       group_socket_node="#353b47"
+                       frame_node="#3d4552a0"
+                       matte_node="#353b47"
+                       distor_node="#353b47"
                        noodle_curving="5"
-                       input_node="#8899a6"
-                       output_node="#8899a6"
-                       filter_node="#cc9e66"
-                       vector_node="#8588cc"
-                       texture_node="#709acc"
-                       shader_node="#79bf73"
-                       script_node="#898d9c"
-                       pattern_node="#898d9c"
-                       layout_node="#505459">
+                       input_node="#353b47"
+                       output_node="#353b47"
+                       filter_node="#353b47"
+                       vector_node="#353b47"
+                       texture_node="#353b47"
+                       shader_node="#353b47"
+                       script_node="#353b47"
+                       pattern_node="#39404d"
+                       layout_node="#353b47">
         <space>
-          <ThemeSpaceGeneric back="#9098a0"
+          <ThemeSpaceGeneric back="#64707c"
                              title="#000000"
-                             text="#000000"
-                             text_hi="#000000"
+                             text="#d9d9d9"
+                             text_hi="#d9d9d9"
                              header="#383838"
                              header_text="#d9d9d9"
                              header_text_hi="#f2f2f2"
@@ -856,7 +856,7 @@
     </logic_editor>
     <outliner>
       <ThemeOutliner match="#454d54"
-                     selected_highlight="#6c8999">
+                     selected_highlight="#858c7f">
         <space>
           <ThemeSpaceGeneric back="#9098a0"
                              title="#0e0e0e"
@@ -952,12 +952,12 @@
       </ThemeUserPreferences>
     </user_preferences>
     <console>
-      <ThemeConsole line_output="#a9c3d9"
+      <ThemeConsole line_output="#c0c8cc"
                     line_input="#d9d9d9"
                     line_info="#19aa19"
                     line_error="#e03f3f"
-                    cursor="#f49c1c"
-                    select="#f4b01c33">
+                    cursor="#4f84eb"
+                    select="#416abf40">
         <space>
           <ThemeSpaceGeneric back="#0d0d0d"
                              title="#000000"
