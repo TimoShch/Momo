@@ -47,9 +47,9 @@
         </wcol_radio>
         <wcol_text>
           <ThemeWidgetColors outline="#131313"
-                             inner="#9098a0ff"
+                             inner="#8c949cff"
                              inner_sel="#a1aab3ff"
-                             item="#6c8999ff"
+                             item="#485058ff"
                              text="#000000"
                              text_sel="#000000"
                              show_shaded="FALSE"
@@ -83,7 +83,7 @@
         </wcol_toggle>
         <wcol_num>
           <ThemeWidgetColors outline="#131313"
-                             inner="#9098a0ff"
+                             inner="#8c949cff"
                              inner_sel="#a1aab3ff"
                              item="#516773ff"
                              text="#000000"
@@ -95,9 +95,9 @@
         </wcol_num>
         <wcol_numslider>
           <ThemeWidgetColors outline="#131313"
-                             inner="#b5babfff"
-                             inner_sel="#b5babfff"
-                             item="#9098a0ff"
+                             inner="#8c949cff"
+                             inner_sel="#a1aab3ff"
+                             item="#8c949cff"
                              text="#000000"
                              text_sel="#000000"
                              show_shaded="FALSE"
@@ -216,7 +216,7 @@
         <wcol_list_item>
           <ThemeWidgetColors outline="#131313"
                              inner="#00000000"
-                             inner_sel="#454d54ff"
+                             inner_sel="#485058ff"
                              item="#282828ff"
                              text="#d9d9d9"
                              text_sel="#f49c1c"
@@ -404,7 +404,7 @@
                         active_file="#828282"
                         active_file_text="#fafafa">
         <space>
-          <ThemeSpaceGeneric back="#9098a0"
+          <ThemeSpaceGeneric back="#8c949c"
                              title="#000000"
                              text="#000000"
                              text_hi="#000000"
@@ -589,7 +589,7 @@
                         paint_curve_handle="#7fff7f7f"
                         paint_curve_pivot="#ff7f7f7f">
         <space>
-          <ThemeSpaceGeneric back="#9098a0"
+          <ThemeSpaceGeneric back="#8c949c"
                              title="#d9d9d9"
                              text="#d9d9d9"
                              text_hi="#f2f2f2"
@@ -637,7 +637,7 @@
                            metadatabg="#000000"
                            metadatatext="#ced2d9">
         <space>
-          <ThemeSpaceGeneric back="#9098a0"
+          <ThemeSpaceGeneric back="#8c949c"
                              title="#000000"
                              text="#000000"
                              text_hi="#000000"
@@ -737,7 +737,7 @@
                      time_keyframe="#ddd700"
                      time_grease_pencil="#b5e61d">
         <space>
-          <ThemeSpaceGeneric back="#9098a0"
+          <ThemeSpaceGeneric back="#8c949c"
                              title="#000000"
                              text="#000000"
                              text_hi="#000000"
@@ -771,7 +771,7 @@
                        node_active="#ffa829"
                        wire="#b5b8e2"
                        wire_inner="#b5b8e2"
-                       wire_select="#ffa829"
+                       wire_select="#b5b8e2"
                        selected_text="#d9d9d9"
                        node_backdrop="#3d4552cc"
                        converter_node="#353b47"
@@ -856,9 +856,9 @@
     </logic_editor>
     <outliner>
       <ThemeOutliner match="#454d54"
-                     selected_highlight="#858c7f">
+                     selected_highlight="#7e858c">
         <space>
-          <ThemeSpaceGeneric back="#9098a0"
+          <ThemeSpaceGeneric back="#8c949c"
                              title="#0e0e0e"
                              text="#000000"
                              text_hi="#ffffff"
@@ -896,7 +896,7 @@
                  info_debug="#c4c4c4"
                  info_debug_text="#000000">
         <space>
-          <ThemeSpaceGeneric back="#9098a0"
+          <ThemeSpaceGeneric back="#8c949c"
                              title="#c8c6c9"
                              text="#000000"
                              text_hi="#000000"
