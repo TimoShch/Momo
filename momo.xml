@@ -143,8 +143,8 @@
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors outline="#131313"
-                             inner="#383838eb"
-                             inner_sel="#484848eb"
+                             inner="#383838f5"
+                             inner_sel="#484848f5"
                              item="#646464ff"
                              text="#d9d9d9"
                              text_sel="#f2f2f2"
@@ -255,7 +255,7 @@
                    empty="#000000"
                    lamp="#00000028"
                    speaker="#000000"
-                   vertex="#9098a0"
+                   vertex="#000000"
                    vertex_select="#ffa829"
                    vertex_size="3"
                    vertex_unreferenced="#404040"
@@ -398,11 +398,7 @@
       </ThemeGraphEditor>
     </graph_editor>
     <file_browser>
-      <ThemeFileBrowser selected_file="#f49c1c"
-                        scrollbar="#606060"
-                        scroll_handle="#7f7070"
-                        active_file="#828282"
-                        active_file_text="#fafafa">
+      <ThemeFileBrowser selected_file="#f49c1c">
         <space>
           <ThemeSpaceGeneric back="#8c949c"
                              title="#000000"
@@ -428,13 +424,6 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
-        <space_list>
-          <ThemeSpaceListGeneric list="#484848"
-                                 list_title="#d9d9d9"
-                                 list_text="#d9d9d9"
-                                 list_text_hi="#f49c1c">
-          </ThemeSpaceListGeneric>
-        </space_list>
       </ThemeFileBrowser>
     </file_browser>
     <nla_editor>
