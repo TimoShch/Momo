@@ -132,7 +132,7 @@
         <wcol_pulldown>
           <ThemeWidgetColors outline="#131313"
                              inner="#484848ff"
-                             inner_sel="#333333ff"
+                             inner_sel="#212121ff"
                              item="#282828ff"
                              text="#d9d9d9"
                              text_sel="#f49c1c"
