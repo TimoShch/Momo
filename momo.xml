@@ -107,7 +107,7 @@
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors outline="#131313"
-                             inner="#484848ff"
+                             inner="#545454ff"
                              inner_sel="#646464ff"
                              item="#000000ff"
                              text="#d9d9d9"
