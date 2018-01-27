@@ -226,12 +226,12 @@
           </ThemeWidgetColors>
         </wcol_list_item>
         <wcol_state>
-          <ThemeWidgetStateColors inner_anim="#73be4c"
-                                  inner_anim_sel="#5aa633"
-                                  inner_key="#c9ce20"
-                                  inner_key_sel="#d7d34b"
-                                  inner_driven="#b400ff"
-                                  inner_driven_sel="#9900e6"
+          <ThemeWidgetStateColors inner_anim="#73bf73"
+                                  inner_anim_sel="#5ab35a"
+                                  inner_key="#f2b761"
+                                  inner_key_sel="#f4a93d"
+                                  inner_driven="#8769bf"
+                                  inner_driven_sel="#6e4caa"
                                   blend="0.5">
           </ThemeWidgetStateColors>
         </wcol_state>
@@ -258,11 +258,13 @@
                    vertex="#000000"
                    vertex_select="#ffa829"
                    vertex_size="3"
+                   vertex_bevel="#00a5ff"
                    vertex_unreferenced="#404040"
                    edge_select="#e69725"
                    edge_seam="#db2512"
                    edge_sharp="#00ffff"
                    edge_crease="#cc0099"
+                   edge_bevel="#00a5ff"
                    edge_facesel="#4b4b4b"
                    freestyle_edge_mark="#7fff7f"
                    face="#00000014"
@@ -348,6 +350,7 @@
                         vertex="#ffffff"
                         vertex_select="#ffa829"
                         vertex_size="4"
+                        vertex_bevel="#919499"
                         vertex_unreferenced="#000000"
                         handle_free="#000000"
                         handle_auto="#909000"
@@ -544,6 +547,7 @@
                         vertex="#000000"
                         vertex_select="#ffa133"
                         vertex_size="3"
+                        vertex_bevel="#000000"
                         vertex_unreferenced="#404040"
                         face="#cccccc1a"
                         face_select="#ffa8294d"
