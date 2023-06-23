@@ -8,14 +8,14 @@ Blender interface theme that tries to mimic The Foundry's MODO interface colors.
 3. Open Blender User Preferences (Themes tab)
 4. Click "Install Theme..." and select __momo.xml__ file
 
-## Some screenshots
+<!---## Some screenshots
 
-##![01](images/momoScreenshot_01.jpg)
+![01](images/momoScreenshot_01.jpg)
 
-##![02](images/momoScreenshot_02.jpg)
+![02](images/momoScreenshot_02.jpg)
 
-##![03](images/momoScreenshot_03.jpg)
+![03](images/momoScreenshot_03.jpg)
 
-##![04](images/momoScreenshot_04.jpg)
+![04](images/momoScreenshot_04.jpg)
 
-##![05](images/momoScreenshot_05.jpg)
+![05](images/momoScreenshot_05.jpg)--->
