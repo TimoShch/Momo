@@ -1102,11 +1102,11 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#8c949c"
+            back="#9098a0"
             title="#c8c6c9"
             text="#262626"
             text_hi="#262626"
-            header="#383838b3"
+            header="#303030b3"
             header_text="#d9d9d9"
             header_text_hi="#f2f2f2"
             button="#484848f2"
@@ -1168,18 +1168,18 @@
     </preferences>
     <console>
       <ThemeConsole
-        line_output="#c0c8cc"
+        line_output="#cccccc"
         line_input="#d9d9d9"
-        line_info="#19aa19"
-        line_error="#e03f3f"
-        cursor="#4f84eb"
-        select="#416abf40"
+        line_info="#7dbf7d"
+        line_error="#ee6b6b"
+        cursor="#f2f2f2"
+        select="#0078d781"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#0d0d0d"
-            title="#212121"
-            text="#212121"
+            back="#313131"
+            title="#f2f2f2"
+            text="#f2f2f2"
             text_hi="#f2f2f2"
             header="#383838b3"
             header_text="#d9d9d9"
