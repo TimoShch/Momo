@@ -277,7 +277,7 @@
             inner="#484848b4"
             inner_sel="#707070b4"
             item="#606060ff"
-            text="#212121"
+            text="#f2f2f2"
             text_sel="#f2f2f2"
             show_shaded="FALSE"
             shadetop="5"
@@ -482,9 +482,9 @@
     </view_3d>
     <graph_editor>
       <ThemeGraphEditor
-        grid="#555b5c"
+        grid="#50585d"
         frame_current="#c7cad1"
-        time_scrub_background="#161616ff"
+        time_scrub_background="#9098a0ff"
         time_marker_line="#ffffff4d"
         time_marker_line_selected="#ffffffb3"
         window_sliders="#969696"
@@ -518,12 +518,12 @@
         <space>
           <ThemeSpaceGeneric
             back="#64707c"
-            title="#212121"
-            text="#212121"
+            title="#333333"
+            text="#333333"
             text_hi="#d9d9d9"
             header="#383838b3"
             header_text="#d9d9d9"
-            header_text_hi="#f2f2f2"
+            header_text_hi="#262626"
             button="#484848f2"
             button_title="#d9d9d9"
             button_text="#d9d9d9"
@@ -831,7 +831,7 @@
         active_strip="#d9d9d9"
         selected_strip="#ff8f0d"
         frame_current="#c7cad1"
-        time_scrub_background="#121212ff"
+        time_scrub_background="#252525ff"
         time_marker_line="#ffffff4d"
         time_marker_line_selected="#ffffffb3"
         keyframe="#ffffff"
@@ -844,13 +844,13 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#9098a0"
-            title="#212121"
-            text="#212121"
-            text_hi="#212121"
+            back="#434343"
+            title="#d9d9d9"
+            text="#d9d9d9"
+            text_hi="#d9d9d9"
             header="#383838b3"
             header_text="#d9d9d9"
-            header_text_hi="#f2f2f2"
+            header_text_hi="#262626"
             button="#484848f2"
             button_title="#d9d9d9"
             button_text="#d9d9d9"
@@ -874,7 +874,7 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#181818"
+            list="#434343"
             list_title="#ffffff"
             list_text="#ffffff"
             list_text_hi="#ffffff"
@@ -1104,8 +1104,8 @@
           <ThemeSpaceGeneric
             back="#8c949c"
             title="#c8c6c9"
-            text="#000000"
-            text_hi="#000000"
+            text="#262626"
+            text_hi="#262626"
             header="#383838b3"
             header_text="#d9d9d9"
             header_text_hi="#f2f2f2"
@@ -1209,7 +1209,7 @@
     </console>
     <clip_editor>
       <ThemeClipEditor
-        grid="#181818ff"
+        grid="#2b2b2bff"
         marker_outline="#000000"
         marker="#7f7f00"
         active_marker="#ffffff"
@@ -1242,9 +1242,9 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#4d5059"
-            title="#212121"
-            text="#212121"
+            back="#434343"
+            title="#d9d9d9"
+            text="#d9d9d9"
             text_hi="#f4b01c"
             header="#383838b3"
             header_text="#d9d9d9"
@@ -1355,14 +1355,14 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#282828"
-            title="#ffffff"
-            text="#c3c3c3"
+            back="#434343"
+            title="#d9d9d9"
+            text="#d9d9d9"
             text_hi="#ffffff"
             header="#303030b3"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
-            button="#30303000"
+            button="#383838ff"
             button_title="#ffffff"
             button_text="#cccccc"
             button_text_hi="#ffffff"
