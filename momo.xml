@@ -260,10 +260,10 @@
           <ThemeWidgetColors
             outline="#26262600"
             inner="#00000000"
-            inner_sel="#f49c1cff"
+            inner_sel="#484848f5"
             item="#282828ff"
             text="#d9d9d9"
-            text_sel="#d9d9d9"
+            text_sel="#ffa828"
             show_shaded="FALSE"
             shadetop="38"
             shadedown="0"
