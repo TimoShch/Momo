@@ -244,11 +244,11 @@
         <wcol_tooltip>
           <ThemeWidgetColors
             outline="#262626ff"
-            inner="#141414e6"
-            inner_sel="#141414e6"
+            inner="#f0f0b4fa"
+            inner_sel="#f0f0b4fa"
             item="#484848ff"
-            text="#d9d9d9"
-            text_sel="#f2f2f2"
+            text="#262626"
+            text_sel="#262626"
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
