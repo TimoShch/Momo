@@ -1,8 +1,9 @@
-![momoLogo](images/momoLogo.png)
+![01](images/1.jpg)
 
 ## MOMO v.3.x
 
-Blender interface theme that tries to mimic The Foundry's MODO interface colors. The first version (for Blender 2.7x) was based on "official" [Modo theme](https://svn.blender.org/svnroot/bf-extensions/contrib/py/scripts/addons/presets/interface_theme/modo.xml "Modo theme on Blender Wiki"), but heavily modified, hence the name MOMO (**MO**dified **MO**do). This version is for Blender 4.x versions and is based on previous version.
+
+The theme inspired by The Foundry's MODO interface colors. The very first version (for Blender 2.7x) was based on "official" [Modo theme](https://svn.blender.org/svnroot/bf-extensions/contrib/py/scripts/addons/presets/interface_theme/modo.xml "Modo theme on Blender Wiki"), but was heavily modified, hence the name MOMO (**MO**dified **MO**do). For Blender 4.x versions.
 
 ## Installation
 1. Clone or download ZIP
@@ -11,8 +12,6 @@ Blender interface theme that tries to mimic The Foundry's MODO interface colors.
 4. Click "Install Theme..." and select __momo.xml__ file
 
 ## Some screenshots
-
-![01](images/1.jpg)
 
 ![02](images/2.jpg)
 
