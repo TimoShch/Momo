@@ -214,8 +214,8 @@
         <wcol_menu_back>
           <ThemeWidgetColors
             outline="#262626ff"
-            inner="#383838f5"
-            inner_sel="#484848f5"
+            inner="#383838ff"
+            inner_sel="#484848ff"
             item="#646464ff"
             text="#d9d9d9"
             text_sel="#f2f2f2"
@@ -369,11 +369,11 @@
         speaker="#000000"
         vertex="#000000"
         vertex_select="#ffa829"
-        vertex_active="#000000"
         vertex_size="3"
         vertex_bevel="#00a5ff"
         vertex_unreferenced="#404040"
         edge_select="#e69725"
+        edge_mode_select="#ffd800"
         edge_seam="#db2512"
         edge_sharp="#00ffff"
         edge_crease="#cc0099"
@@ -382,6 +382,7 @@
         freestyle_edge_mark="#7fff7f"
         face="#00000014"
         face_select="#cc86213b"
+        face_mode_select="#ffb70033"
         face_dot="#ffa829"
         facedot_size="2"
         freestyle_face_mark="#7fff7f33"
@@ -680,6 +681,8 @@
         keyframe_jitter_selected="#61c042"
         keyframe_movehold="#808080"
         keyframe_movehold_selected="#ffaf23"
+        keyframe_generated="#585858"
+        keyframe_generated_selected="#a28962"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         keyframe_scale_factor="1"
@@ -734,12 +737,12 @@
         grid="#2c2c2cff"
         vertex="#1a1a1a"
         vertex_select="#ffa828"
-        vertex_active="#1a1a1a"
         vertex_size="3"
         vertex_bevel="#1a1a1a"
         vertex_unreferenced="#404040"
         face="#cccccc1a"
         face_select="#ffa8294d"
+        face_mode_select="#00000000"
         face_dot="#ffa133"
         facedot_size="2"
         freestyle_face_mark="#00000000"
@@ -805,6 +808,13 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
+        <asset_shelf>
+          <ThemeAssetShelf
+            header_back="#1d1d1dff"
+            back="#303030ff"
+            >
+          </ThemeAssetShelf>
+        </asset_shelf>
       </ThemeImageEditor>
     </image_editor>
     <sequence_editor>
@@ -834,6 +844,8 @@
         keyframe_breakdown_selected="#54bfed"
         keyframe_movehold="#808080"
         keyframe_movehold_selected="#ffaf23"
+        keyframe_generated="#585858"
+        keyframe_generated_selected="#a28962"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         draw_action="#50c8ff"
@@ -1615,6 +1627,7 @@
     <panel_title>
       <ThemeFontStyle
         points="11"
+        character_weight="400"
         shadow="0"
         shadow_offset_x="1"
         shadow_offset_y="-1"
@@ -1626,6 +1639,7 @@
     <widget_label>
       <ThemeFontStyle
         points="11"
+        character_weight="400"
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
@@ -1637,6 +1651,7 @@
     <widget>
       <ThemeFontStyle
         points="11"
+        character_weight="400"
         shadow="0"
         shadow_offset_x="0"
         shadow_offset_y="0"
