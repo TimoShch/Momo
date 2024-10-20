@@ -42,7 +42,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_regular>
@@ -57,7 +57,7 @@
             show_shaded="FALSE"
             shadetop="15"
             shadedown="-15"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_tool>
@@ -72,7 +72,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_toolbar_item>
@@ -87,7 +87,7 @@
             show_shaded="FALSE"
             shadetop="15"
             shadedown="-15"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_radio>
@@ -102,7 +102,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="25"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_text>
@@ -117,7 +117,7 @@
             show_shaded="FALSE"
             shadetop="15"
             shadedown="-15"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_option>
@@ -132,7 +132,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_toggle>
@@ -147,7 +147,7 @@
             show_shaded="FALSE"
             shadetop="-20"
             shadedown="0"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_num>
@@ -162,14 +162,14 @@
             show_shaded="FALSE"
             shadetop="-20"
             shadedown="0"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors
             outline="#262626ff"
-            inner="#545454ff"
+            inner="#73798080"
             inner_sel="#646464ff"
             item="#282828ff"
             text="#d9d9d9"
@@ -177,7 +177,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_box>
@@ -192,29 +192,29 @@
             show_shaded="FALSE"
             shadetop="15"
             shadedown="-15"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_menu>
         <wcol_pulldown>
           <ThemeWidgetColors
-            outline="#26262600"
+            outline="#ffaa00ff"
             inner="#484848ff"
-            inner_sel="#212121ff"
+            inner_sel="#ffaa0000"
             item="#282828ff"
             text="#d9d9d9"
             text_sel="#f49c1c"
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
-            roundness="0.3"
+            roundness="0"
             >
           </ThemeWidgetColors>
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors
             outline="#262626ff"
-            inner="#383838ff"
+            inner="#505050fa"
             inner_sel="#484848ff"
             item="#646464ff"
             text="#d9d9d9"
@@ -222,7 +222,7 @@
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_menu_back>
@@ -237,7 +237,7 @@
             show_shaded="FALSE"
             shadetop="10"
             shadedown="-10"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_pie_menu>
@@ -259,15 +259,15 @@
         <wcol_menu_item>
           <ThemeWidgetColors
             outline="#26262600"
-            inner="#00000000"
-            inner_sel="#484848f5"
+            inner="#eb8b0000"
+            inner_sel="#637385f7"
             item="#282828ff"
             text="#d9d9d9"
-            text_sel="#ffa828"
+            text_sel="#212121"
             show_shaded="FALSE"
             shadetop="38"
             shadedown="0"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_menu_item>
@@ -297,7 +297,7 @@
             show_shaded="FALSE"
             shadetop="5"
             shadedown="-5"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_progress>
@@ -305,14 +305,14 @@
           <ThemeWidgetColors
             outline="#262626ff"
             inner="#00000000"
-            inner_sel="#424242ff"
+            inner_sel="#485058ff"
             item="#282828ff"
             text="#d9d9d9"
-            text_sel="#ffa828"
+            text_sel="#f49c1c"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_list_item>
@@ -343,7 +343,7 @@
             show_shaded="FALSE"
             shadetop="5"
             shadedown="-10"
-            roundness="0.3"
+            roundness="0.4"
             >
           </ThemeWidgetColors>
         </wcol_tab>
@@ -1063,7 +1063,7 @@
         selected_object="#ff7e1a"
         active_object="#ffaf29"
         edited_object="#00806266"
-        row_alternate="#8c949cff"
+        row_alternate="#949ca4ff"
         >
         <space>
           <ThemeSpaceGeneric
