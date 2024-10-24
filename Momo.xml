@@ -351,7 +351,7 @@
     </user_interface>
     <view_3d>
       <ThemeView3D
-        grid="#2e2e2eff"
+        grid="#2b2b2bff"
         clipping_border_3d="#313131ff"
         wire="#000000"
         wire_edit="#000000"
@@ -449,7 +449,7 @@
             <gradients>
               <ThemeGradientColors
                 background_type="SINGLE_COLOR"
-                high_gradient="#434343"
+                high_gradient="#414141"
                 gradient="#3a3a3a"
                 >
               </ThemeGradientColors>
@@ -734,8 +734,8 @@
     </dopesheet_editor>
     <image_editor>
       <ThemeImageEditor
-        grid="#2c2c2cff"
-        vertex="#1a1a1a"
+        grid="#4d4d4dff"
+        vertex="#1b1b1b"
         vertex_select="#ffa828"
         vertex_size="3"
         vertex_bevel="#1a1a1a"
@@ -780,7 +780,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#434343"
+            back="#404040"
             title="#d9d9d9"
             text="#d9d9d9"
             text_hi="#f2f2f2"
