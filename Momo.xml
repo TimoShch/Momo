@@ -321,6 +321,10 @@
         </wcol_list_item>
         <wcol_state>
           <ThemeWidgetStateColors
+            error="#771111ff"
+            warning="#ac8737ff"
+            info="#28487dff"
+            success="#188625ff"
             inner_anim="#73be4c"
             inner_anim_sel="#5aa633"
             inner_key="#c9ce20"
@@ -859,6 +863,8 @@
         metadatatext="#ced2d9"
         preview_range="#a14d0066"
         row_alternate="#ffffff05"
+        text_strip_cursor="#71a8ffff"
+        selected_text="#ffffff4d"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1019,6 +1025,7 @@
         simulation_zone="#66416259"
         repeat_zone="#66462959"
         foreach_geometry_element_zone="#33527f59"
+        closure_zone="#527f3333"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1107,11 +1114,8 @@
       <ThemeInfo
         info_selected="#454d54"
         info_selected_text="#f49c1c"
-        info_error="#e63939ff"
         info_error_text="#000000"
-        info_warning="#dc8060ff"
         info_warning_text="#000000"
-        info_info="#22aa22ff"
         info_info_text="#000000"
         info_debug="#c4c4c4ff"
         info_debug_text="#000000"
@@ -1248,6 +1252,7 @@
         strips_selected="#ff8c00"
         metadatabg="#000000"
         metadatatext="#ffffff"
+        preview_range="#a14d0066"
         handle_free="#000000"
         handle_auto="#909000"
         handle_align="#803060"
