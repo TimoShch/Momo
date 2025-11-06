@@ -7,7 +7,7 @@ The theme inspired by The Foundry's MODO interface colors (v16 for light variant
 
 ## Installation
 
-This theme is available on Blender's Extensions platform: [Light](https://extensions.blender.org/themes/momo/) or [Dark](https://extensions.blender.org/themes/momo-dark/) (coming soon).
+This theme is available on Blender's Extensions platform: [Light](https://extensions.blender.org/themes/momo/) or [Dark](https://extensions.blender.org/themes/momo-dark/)).
 
 Manual installation:
 
