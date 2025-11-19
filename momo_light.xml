@@ -49,7 +49,7 @@
             inner="#606060ff"
             inner_sel="#f49c1cff"
             item="#f49c1cff"
-            text="#d9d9d9"
+            text="#262626"
             text_sel="#262626"
             show_shaded="FALSE"
             shadetop="0"
@@ -793,6 +793,7 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#707b8a"
+        node_outline="#ffffff26"
         node_selected="#b5b8e2"
         node_active="#ffa829"
         wire="#252626b3"
@@ -852,7 +853,7 @@
             back="#9098a0"
             title="#212121"
             text="#212121"
-            text_hi="#ffffff"
+            text_hi="#212121"
             header="#383838b3"
             header_text="#d9d9d9"
             header_text_hi="#ffffff"
@@ -978,13 +979,13 @@
       <ThemeStatusBar>
         <space>
           <ThemeSpaceGeneric
-            back="#303030"
-            title="#e6e6e6"
-            text="#e6e6e6"
-            text_hi="#ffffff"
-            header="#282828b3"
-            header_text="#cccccc"
-            header_text_hi="#ffffff"
+            back="#9098a0"
+            title="#1a1a1a"
+            text="#1a1a1a"
+            text_hi="#1a1a1a"
+            header="#9098a0ff"
+            header_text="#1a1a1a"
+            header_text_hi="#262626"
             >
           </ThemeSpaceGeneric>
         </space>
