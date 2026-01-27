@@ -38,7 +38,7 @@
         icon_object_data="#00d4a3ff"
         icon_modifier="#74a2ffff"
         icon_shading="#cc6670ff"
-        icon_folder="#ccad63ff"
+        icon_folder="#f4a431ff"
         icon_autokey="#ab3c48ff"
         icon_border_intensity="0.3"
         >
@@ -49,7 +49,7 @@
             inner="#606060ff"
             inner_sel="#f49c1cff"
             item="#f49c1cff"
-            text="#262626"
+            text="#d9d9d9"
             text_sel="#262626"
             show_shaded="FALSE"
             shadetop="0"
@@ -979,13 +979,13 @@
       <ThemeStatusBar>
         <space>
           <ThemeSpaceGeneric
-            back="#9098a0"
-            title="#1a1a1a"
-            text="#1a1a1a"
-            text_hi="#1a1a1a"
-            header="#9098a0ff"
-            header_text="#1a1a1a"
-            header_text_hi="#262626"
+            back="#282828"
+            title="#d9d9d9"
+            text="#d9d9d9"
+            text_hi="#ffffff"
+            header="#282828ff"
+            header_text="#d9d9d9"
+            header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
         </space>
